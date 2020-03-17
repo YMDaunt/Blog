@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "axios": "^0.18.0",
+    "babel-polyfill": "^6.26.0",
+    "config": "^3.0.1",
+    "css": "^2.2.4",
+    "github-markdown-css": "^3.0.1",
+    "graphql": "^14.2.1",
+    "parcel": "^1.12.3",
+    "vue": "^2.6.10",
+    "vue-hot-reload-api": "^2.3.3",
+    "vue-router": "^3.0.2"
+  },
+  "scripts": {
+    "watch": "parcel index.html"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^2.6.0",
+    "less": "^3.9.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
